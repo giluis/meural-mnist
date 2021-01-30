@@ -1,2 +1,1 @@
-# meural-mnist
-A project that uses the meuralmetwork library to implement handwritten digit recognition, using the mnist dataset
+front end that should allow users to draw digits and get from neualnetwork its prediction. Should be made perhaps using react
