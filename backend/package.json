@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend that should train the neural network before usage. After the training, should accept requests from front end, and respond with the neural networks prediction",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "meuralmetwork": "^2.8.9",
+    "mnist": "^1.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
